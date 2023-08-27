@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hola! 👋, Soy Facundo Peri 🤖</h1>
+    <h1>Hola! 👋, Soy Facundo Peri</h1>
     <img src="https://free4kwallpapers.com/uploads/originals/2020/05/02/morgan-codes-wallpaper.png" width="50%">
     <h3 >Estudiante De Licenciatura En Informatica - UNLP Y Programador</h3>
     <p> <img src="https://komarev.com/ghpvc/?username=facundoperi&label=Profile%20views&color=0e75b6&style=flat" alt="facundoperi" /> </p>
