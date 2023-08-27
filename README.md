@@ -2,15 +2,25 @@
     <h1>Hola! 👋, Soy Facundo Peri 🤖</h1>
     <img src="https://free4kwallpapers.com/uploads/originals/2020/05/02/morgan-codes-wallpaper.png" width="50%">
     <h3 >Estudiante De Licenciatura En Informatica - UNLP Y Programador</h3>
+    <p> <img src="https://komarev.com/ghpvc/?username=facundoperi&label=Profile%20views&color=0e75b6&style=flat" alt="facundoperi" /> </p>
 </div>
+</br>
+</br> 
+<p>
+    Soy un estudiante de Licenciatura en Informatica en la Universidad nacional de La Plata. <br>
+    Me gusta aprender y estudiar, asi como programar y buscar soluciones a problemas a traves del uso de nuevas tecnologias.
+</p>    
+</br>
+</br>
 
-
-
-- 🔭 Actualmente trabajo en IOMA Digital [IOMA Digital](https://www.ioma.gba.gob.ar/)
-
+- 🔭 Trabajo como programador en [IOMA Digital](https://www.ioma.gba.gob.ar/).
+- 🌱 Actualmente estoy profundizando mis conocimientos en Desarrollo Web.
+- 💬 Preguntame sobre Desarrollo en ASP.NET MVC.
 - 📫 Como contactarme **facundoperi01@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h3 align="left">Mis Redes:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/facundo-peri-0679a3267/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo peri" height="30" width="40" />
@@ -18,9 +28,12 @@
     <a href="https://instagram.com/facu_peri" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="facu_peri" height="30" width="40" />
     </a>
+    <a href="https://discord.gg/elPeshi_#2589" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elPeshi_#2589" height="30" width="40" />
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes Y Herramientas:</h3>
 <p align="left">
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
@@ -47,3 +60,27 @@
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
     </a> 
 </p>
+
+<div align="center">
+    <div>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=facundoperi&show_icons=true&locale=en&layout=compact" alt="facundoperi" />
+        <br>
+    </div>
+</div>
+<div align="center">
+        <div>&nbsp;
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=facundoperi&show_icons=true&locale=en" alt="facundoperi" />
+        <br>
+    </div>
+</div>
+<div align="center">
+    <div>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facundoperi&" alt="facundoperi" />
+    </div>
+</div>
+    
+
+
+
+
+
