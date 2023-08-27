@@ -60,24 +60,15 @@
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
     </a> 
 </p>
+</br>
 
-<div align="center">
-    <div>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=facundoperi&show_icons=true&locale=en&layout=compact" alt="facundoperi" />
-        <br>
-    </div>
-</div>
-<div align="center">
-        <div>&nbsp;
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=facundoperi&show_icons=true&locale=en" alt="facundoperi" />
-        <br>
-    </div>
-</div>
-<div align="center">
-    <div>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facundoperi&" alt="facundoperi" />
-    </div>
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=facundoperi&show_icons=true&locale=en&layout=compact" alt="facundoperi" /></p>
+</br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=facundoperi&show_icons=true&locale=en" alt="facundoperi" /></p>
+</br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facundoperi&" alt="facundoperi" /></p>
     
 
 
