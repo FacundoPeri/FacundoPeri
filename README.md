@@ -7,7 +7,7 @@
 </br>
 </br> 
 <p>
-    Soy un estudiante de Licenciatura en Informatica en la Universidad nacional de La Plata. <br>
+    Soy estudiante de Licenciatura en Informatica en la Universidad nacional de La Plata. <br>
     Me gusta aprender y estudiar, asi como programar y buscar soluciones a problemas a traves del uso de nuevas tecnologias.
 </p>    
 </br>
