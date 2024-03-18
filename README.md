@@ -8,6 +8,7 @@
 </br> 
 <p>
     Soy estudiante de Licenciatura en Informatica en la Universidad nacional de La Plata. <br>
+    Trabajo como desarrollador en Asp.Net con C# en los sistemas web de IOMA Digital. <br>
     Me gusta aprender y estudiar, asi como programar y buscar soluciones a problemas a traves del uso de nuevas tecnologias.
 </p>    
 </br>
