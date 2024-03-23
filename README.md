@@ -81,13 +81,23 @@
 </div>
 </br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=facundoperi&show_icons=true&locale=en&layout=compact" alt="facundoperi" /></p>
-</br>
+<div align="center">
+    <div>
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=facundoperi&show_icons=true&locale=en&layout=compact" alt="facundoperi" /></p>
+        </br>
+    </div>
+    <div>
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=facundoperi&show_icons=true&locale=en" alt="facundoperi" /></p>
+        </br>
+    </div>
+    <div>
+        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facundoperi&" alt="facundoperi" /></p>
+    </div>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=facundoperi&show_icons=true&locale=en" alt="facundoperi" /></p>
-</br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facundoperi&" alt="facundoperi" /></p>
+
+
     
 
 
