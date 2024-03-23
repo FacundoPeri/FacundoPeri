@@ -69,7 +69,7 @@
 </p>
 </br>
 
-<h3 align="center">Facultad</h3>
+<h2 align="center">Facultad</h2>
 <div align="center">
     <h3>Segundo Año</h3>
     <a href="https://github.com/FacundoPeri/Seminario-Python-2024.git">
