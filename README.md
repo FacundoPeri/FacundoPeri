@@ -29,6 +29,9 @@
     <a href="https://instagram.com/facu_peri" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="facu_peri" height="30" width="40" />
     </a>
+        <a href="https://twitter.com/FacundoPeri" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="FacundoPeri" height="30" width="40" />
+    </a>
     <a href="https://discord.gg/elPeshi_#2589" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elPeshi_#2589" height="30" width="40" />
     </a>
