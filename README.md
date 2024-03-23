@@ -63,12 +63,15 @@
 </p>
 </br>
 
-<h2 align="center">Facultad</h2>
+<h3 align="center">Facultad</h3>
 
 <div align="center">
     <h3>Segundo Año</h3>
     <a href="https://github.com/FacundoPeri/Seminario-Python-2024.git">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FacundoPeri&repo=Seminario-Python-2024&theme=dark" />
+    </a> 
+    <a href="https://github.com/FacundoPeri/FOD-2024.git">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FacundoPeri&repo=FOD-2024&theme=dark" />
     </a> 
 </div>
 
